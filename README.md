@@ -3,4 +3,4 @@
 
 使用gridView控件实现，参考：https://www.tutorialspoint.com/how-to-create-gridview-layout-in-an-android-app-using-kotlin
 
-![image](https://https://github.com/yhm2046/Parting/blob/master/img/screenshot1.gif)
+![image](https://github.com/yhm2046/Parting/blob/master/img/screenshot1.gif)
